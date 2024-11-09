@@ -6,7 +6,7 @@ Welcome to my GitHub profile! I'm a passionate Web Developer with a love for cre
 - 🌱 Currently learning: Web Development, Data Structures and Algorithms
 - 🧩 Hobbies: Listening Music 
 - 💬 Ask me about: Backend Web Development
-- 📫 How to reach me: [Email or links to your social profiles, e.g., LinkedIn, Twitter]
+- 📫 How to reach me: https://www.linkedin.com/in/shriniwas-prachand-1ba72428a
 
 ## 🔧 Skills & Technologies
 - **Programming Languages:** Javascript, Python , c++, java
