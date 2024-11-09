@@ -14,15 +14,9 @@ Welcome to my GitHub profile! I'm a passionate Web Developer with a love for cre
 - **Tools & Platforms:** Docker, AWS, Vercel, Git
 - **Databases:** MySQL,  MongoDB, Reddis
 
-## 📈 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=[YourGitHubUsername]&show_icons=true&count_private=true&hide_title=true&hide=prs&theme=radical)
-
 ## 📬 Contact Me
 - Email: shriniwaspprachand@gmail.com
 - LinkedIn: https://www.linkedin.com/in/shriniwas-prachand-1ba72428a
-
-## 👀 Visitors
-![Visitor Badge](https://visitor-badge.glitch.me/badge?page_id=[YourGitHubUsername].github-profile)
 
 ---
 
