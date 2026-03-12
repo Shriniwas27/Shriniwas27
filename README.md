@@ -84,13 +84,11 @@
 
 ```
 ╔══════════════════════════════════════════════════════════════╗
-║  ✅  Intergalactic Hackathon Winner                          ║
-║      Awarded for creating the most efficient resource        ║
-║      management AI for colony ships.              2023.08   ║
+║  ✅ Runner-up Mumbai Hacks 25                          ║
+║      worked on MisInformation Category            2025.10   ║
 ╠══════════════════════════════════════════════════════════════╣
-║  🔬  Quantum Security Specialist                             ║
-║      Certified in encryption protocols across               ║
-║      non-linear timelines.                        2024.01   ║
+║  🔬  Breakthrough Concept Award - Google Cloud Agentic AI Day                             ║
+║      Developed an Solution that helps Student and Teacher EcoSystem                    2025.09   ║
 ╚══════════════════════════════════════════════════════════════╝
 ```
 
