@@ -8,10 +8,15 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:a855f7&height=160&section=header&text=Shriniwas&fontSize=36&fontColor=ffffff&fontAlignY=50&animation=fadeIn&desc=Navigating%20the%20Deep%20Learning%20Nebula&descAlignY=72&descSize=14&descColor=94a3b8"/>
 
 
->
-
+<!-- STATUS BADGES -->
+<p>
+  <img src="https://img.shields.io/badge/STATUS-ONLINE-06b6d4?style=for-the-badge&labelColor=020617&logo=satellite&logoColor=06b6d4"/>
+  <img src="https://img.shields.io/badge/LOC-SECTOR__7G-a855f7?style=for-the-badge&labelColor=020617&logo=rocket&logoColor=a855f7"/>
+  <img src="https://img.shields.io/badge/NEURAL_SYNC-98.2%25_STABLE-10b981?style=for-the-badge&labelColor=020617&logo=circuit-board&logoColor=10b981"/>
+</p>
 <!-- QUOTE -->
-> *"Exploring the digital cosmos through clean code and autonomous logic. Currently navigating the Deep Learning Nebula."*
+
+"Exploring the digital cosmos through clean code and autonomous logic. Currently navigating the Deep Learning Nebula."
 
 </div>
 
@@ -23,30 +28,7 @@
 
 <div align="center">
 
-## `⚡ CORE ALGORITHM METRICS`
-
-<table>
-  <tr>
-    <th align="center"><code>🟢 STANDARD TASKS</code></th>
-    <th align="center"><code>🟡 ADVANCED PROTOCOLS</code></th>
-    <th align="center"><code>🔴 CRITICAL FAILURES</code></th>
-  </tr>
-  <tr>
-    <td align="center">
-      <img src="https://img.shields.io/badge/SOLVED-452-10b981?style=for-the-badge&labelColor=020617"/>
-      <br/><sub>█████████░ 85%</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/SOLVED-218-f59e0b?style=for-the-badge&labelColor=020617"/>
-      <br/><sub>██████░░░░ 60%</sub>
-    </td>
-    <td align="center">
-      <img src="https://img.shields.io/badge/SOLVED-84-f43f5e?style=for-the-badge&labelColor=020617"/>
-      <br/><sub>███░░░░░░░ 35%</sub>
-    </td>
-  </tr>
-</table>
-
+## `⚡ ALGORITHMIC PROFILE`
 <img src="https://leetcard.jacoblin.cool/Shriniwas_2705?theme=dark&font=Fira%20Code&ext=activity&border=1&radius=10" alt="LeetCode Stats" width="600"/>
 
 </div>
@@ -77,15 +59,27 @@
 <!-- ══════════════════════════════════════════════════════════════════════ -->
 
 ## `🏆 MISSION ARCHIVE`
-
 ```
-╔══════════════════════════════════════════════════════════════╗
-║  ✅ Runner-up Mumbai Hacks 25                          ║
-║      worked on MisInformation Category            2025.10   ║
-╠══════════════════════════════════════════════════════════════╣
-║  🔬  Breakthrough Concept Award - Google Cloud Agentic AI Day                             ║
-║      Developed an Solution that helps Student and Teacher EcoSystem                    2025.09   ║
-╚══════════════════════════════════════════════════════════════╝
+╔══════════════════════════════════════════════════════════════════════╗
+║  🥈  Runner-up — Mumbai Hacks 2025                                   ║
+║      MisInformation Detection Category                    2025.10   ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  🌩️  Breakthrough Concept Award                                      ║
+║      Google Cloud Agentic AI Day                                     ║
+║      Student-Teacher Ecosystem Solution               2025.09       ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  🏆  Winner — Technodium @ MIT-ADT                                   ║
+║      First place at the flagship tech competition                    ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  🔥  Top 10 — GenAI Exchange Hackathon by Google Cloud               ║
+║      Ranked in Top 10 out of 2,00,000+ Participants                  ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  🎯  Top 80 Finalist — Pragati AI for Impact Hackathon               ║
+║      Selected among top 80 nationwide                                ║
+╠══════════════════════════════════════════════════════════════════════╣
+║  💡  Top 10 Finalist — Code Cubicle 4.0 by Geek Room                 ║
+║                                                                      ║
+╚══════════════════════════════════════════════════════════════════════╝
 ```
 
 <div align="center">
