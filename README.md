@@ -7,12 +7,8 @@
 <!-- HERO BANNER -->
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:a855f7&height=160&section=header&text=Shriniwas&fontSize=36&fontColor=ffffff&fontAlignY=50&animation=fadeIn&desc=Navigating%20the%20Deep%20Learning%20Nebula&descAlignY=72&descSize=14&descColor=94a3b8"/>
 
-<!-- STATUS BADGES -->
-<p>
-  <img src="https://img.shields.io/badge/STATUS-ONLINE-06b6d4?style=for-the-badge&labelColor=020617&logo=satellite&logoColor=06b6d4"/>
-  <img src="https://img.shields.io/badge/LOC-SECTOR__7G-a855f7?style=for-the-badge&labelColor=020617&logo=rocket&logoColor=a855f7"/>
-  <img src="https://img.shields.io/badge/NEURAL_SYNC-98.2%25_STABLE-10b981?style=for-the-badge&labelColor=020617&logo=circuit-board&logoColor=10b981"/>
-</p>
+
+>
 
 <!-- QUOTE -->
 > *"Exploring the digital cosmos through clean code and autonomous logic. Currently navigating the Deep Learning Nebula."*
