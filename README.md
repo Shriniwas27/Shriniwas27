@@ -5,7 +5,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:a855f7&height=160&section=header&text=Shriniwas Prachand%3A%20ARCHITECT&fontSize=36&fontColor=ffffff&fontAlignY=50&animation=fadeIn&desc=Navigating%20the%20Deep%20Learning%20Nebula&descAlignY=72&descSize=14&descColor=94a3b8"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:06b6d4,100:a855f7&height=160&section=header&text=Shriniwas %3A%20ARCHITECT&fontSize=36&fontColor=ffffff&fontAlignY=50&animation=fadeIn&desc=Navigating%20the%20Deep%20Learning%20Nebula&descAlignY=72&descSize=14&descColor=94a3b8"/>
 
 <!-- STATUS BADGES -->
 <p>
