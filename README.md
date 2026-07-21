@@ -4,7 +4,7 @@
 
 <div align="center">
 
-<img src="./assets/banner.png" width="100%" alt="Banner">
+<img src="./Screenshot 2026-07-21 232418.png" width="100%" alt="Banner">
 
 </div>
 
