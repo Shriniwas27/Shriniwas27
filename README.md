@@ -14,23 +14,9 @@
 
 ### Figuring Out The Destiny of Life with Softwares , Don't Know Where will Probably it lead to.
 
-<img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=grey"/>
-
 </div>
 
-```text
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                       SYSTEM STATUS :: ONLINE                              ║
-╠══════════════════════════════════════════════════════════════════════════════╣
-║  Role          :: AI Engineer                                              ║
-║  Focus         :: Agentic AI • Distributed Systems • Backend               ║
-║  Languages     :: C++ • Python • JavaScript • SQL                          ║
-║  Frameworks    :: FastAPI • Next.js • PyTorch • Redis • Docker             ║
-║  Interests     :: LLMs • RAG • Cloud • Competitive Programming             ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
 
----
 
 # ⚡ ALGORITHMIC PROFILE
 
