@@ -10,9 +10,9 @@
 
 <div align="center">
 
-# ⚙️ SHRINIWAS
+# ⚙️ SHRINIWAS - Knows How to Surfe with Cloud Dasbboard , Can talk to Machines and Can Automate things for You.
 
-### AI Engineer • Backend Developer
+### Figuring Out The Destiny of Life with Softwares , Don't Know Where will Probably it lead to.
 
 <img src="https://komarev.com/ghpvc/?username=YOUR_USERNAME&style=for-the-badge&color=grey"/>
 
@@ -40,27 +40,9 @@
 
 </div>
 
----
 
-# 📊 GITHUB ANALYTICS
 
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=github_dark&hide_border=true"/>
-
-<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-<img width="700" src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 MISSION ARCHIVE
+# 🏆 SOME PAST EXPERIENCE 
 
 ```text
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
@@ -94,46 +76,12 @@
 
 ---
 
-# 🚀 CURRENT PROJECTS
 
-```text
-╔════════════════════════════════════════════════════════════════════╗
-║  ► AI Agents & Multi-Agent Systems                               ║
-║  ► Distributed Contest Platform                                  ║
-║  ► Real-time Voice AI                                             ║
-║  ► Large Language Model Applications                             ║
-║  ► Scalable Backend Systems                                      ║
-╚════════════════════════════════════════════════════════════════════╝
-```
 
----
-
-# 🌐 CONNECT
-
-<div align="center">
-
-<a href="https://linkedin.com/in/YOUR_LINKEDIN">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://twitter.com/YOUR_TWITTER">
-<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
-</a>
-
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
----
-
-<div align="center">
 
 ```text
 ═══════════════════════════════════════════════════════════════════════════════
-SYSTEM ARCHITECTURE STATUS :: OPERATIONAL
-BUILD VERSION :: 2026.07
+STATUS :: Operational Since 2024
 ═══════════════════════════════════════════════════════════════════════════════
 ```
 
