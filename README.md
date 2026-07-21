@@ -10,7 +10,7 @@
 
 <div align="center">
 
-# ⚙️ SHRINIWAS - Knows How to Surfe with Cloud Dasbboard , Can talk to Machines and Can Automate things for You.
+#  SHRINIWAS - Knows How to Surfe with Cloud Dasbboard , Can talk to Machines and Can Automate things for You.
 
 ### Figuring Out The Destiny of Life with Softwares , Don't Know Where will Probably it lead to.
 
@@ -18,7 +18,7 @@
 
 
 
-# ⚡ ALGORITHMIC PROFILE
+#  ALGORITHMIC PROFILE
 
 <div align="center">
 
@@ -30,25 +30,28 @@
 
 # 🏆 SOME PAST EXPERIENCE 
 
-```text
 ┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ 🥈 Runner-up — Mumbai Hacks 2025                                           ┃
-┃     MisInformation Detection Category                          2025.10      ┃
+┃ 🥈 Runner-up — Mumbai Hacks 2025                                             ┃
+┃     Misinformation Detection Category                                        ┃
 ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃ 🌩️ Breakthrough Concept Award                                              ┃
-┃     Google Cloud Agentic AI Day                                2025.09      ┃
+┃ 🏆 Winner — BRG AI Hackathon                                                 ┃
+┃     Organized by TIAA Global Capability Center (TIAA GC)                    ┃
 ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃ 🏆 Winner — Technodium @ MIT-ADT                                           ┃
-┃     First Place at Flagship Tech Competition                               ┃
+┃ 🌩️ Breakthrough Concept Award                                                ┃
+┃     Google Cloud Agentic AI Day                                              ┃
 ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃ 🔥 Top 10 — GenAI Exchange Hackathon                                       ┃
-┃     Google Cloud • 200,000+ Participants                                   ┃
+┃ 🏆 Winner — Technodium @ MIT-ADT                                             ┃
+┃     First Place at Flagship Tech Competition                                 ┃
 ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃ 🎯 Top 80 Finalist — Pragati AI for Impact                                 ┃
+┃ 🔥 Top 10 — GenAI Exchange Hackathon                                         ┃
+┃     Google Cloud • 200,000+ Participants                                     ┃
 ┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃ 💡 Top 10 Finalist — Code Cubicle 4.0                                      ┃
+┃ 🎯 Top 80 Finalist — Pragati AI for Impact                                   ┃
+┃     National AI Innovation Challenge                                         ┃
+┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
+┃ 💡 Top 10 Finalist — Code Cubicle 4.0                                        ┃
+┃     National Competitive Programming Hackathon                               ┃
 ┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
-```
 
 ---
 
