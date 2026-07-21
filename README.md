@@ -18,7 +18,7 @@
 
 
 
-#  ALGORITHMIC PROFILE
+# PROBLEMS SOLVED:
 
 <div align="center">
 
@@ -28,30 +28,99 @@
 
 
 
-# 🏆 SOME PAST EXPERIENCE 
+# 🏆 SOME PAST EXPERIENCE:
 
-┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┓
-┃ 🥈 Runner-up — Mumbai Hacks 2025                                             ┃
-┃     Misinformation Detection Category                                        ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃ 🏆 Winner — BRG AI Hackathon                                                 ┃
-┃     Organized by TIAA Global Capability Center (TIAA GC)                    ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃ 🌩️ Breakthrough Concept Award                                                ┃
-┃     Google Cloud Agentic AI Day                                              ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃ 🏆 Winner — Technodium @ MIT-ADT                                             ┃
-┃     First Place at Flagship Tech Competition                                 ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃ 🔥 Top 10 — GenAI Exchange Hackathon                                         ┃
-┃     Google Cloud • 200,000+ Participants                                     ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃ 🎯 Top 80 Finalist — Pragati AI for Impact                                   ┃
-┃     National AI Innovation Challenge                                         ┃
-┣━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┫
-┃ 💡 Top 10 Finalist — Code Cubicle 4.0                                        ┃
-┃     National Competitive Programming Hackathon                               ┃
-┗━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┛
+## 🏆 Achievements
+
+<table align="center">
+<tr>
+
+<td width="250" height="180" align="center">
+
+### 🥈
+### Runner-up
+**Mumbai Hacks 2025**
+
+*Misinformation Detection Category*
+
+</td>
+
+<td width="250" height="180" align="center">
+
+### 🏆
+### Winner
+**BRG AI Hackathon**
+
+*Organized by TIAA GC*
+
+</td>
+
+<td width="250" height="180" align="center">
+
+### 🌩️
+### Award
+**Breakthrough Concept**
+
+*Google Cloud Agentic AI Day*
+
+</td>
+
+<td width="250" height="180" align="center">
+
+### 🏆
+### Winner
+**Technodium @ MIT-ADT**
+
+*1st Place – Flagship Tech Competition*
+
+</td>
+
+</tr>
+
+<tr>
+
+<td width="250" height="180" align="center">
+
+### 🔥
+### Top 10
+**GenAI Exchange Hackathon**
+
+*Google Cloud • 200K+ Participants*
+
+</td>
+
+<td width="250" height="180" align="center">
+
+### 🎯
+### Top 80
+**Pragati AI for Impact**
+
+*National AI Innovation Challenge*
+
+</td>
+
+<td width="250" height="180" align="center">
+
+### 💡
+### Top 10
+**Code Cubicle 4.0**
+
+*National Hackathon Finalist*
+
+</td>
+
+<td width="250" height="180" align="center">
+
+### 🚀
+### More Soon
+**Building AI Systems**
+
+*Next milestone loading...*
+
+</td>
+
+</tr>
+</table>
 
 ---
 
