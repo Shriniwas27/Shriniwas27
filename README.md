@@ -26,10 +26,6 @@
 
 </div>
 
-
-
-# 🏆 SOME PAST EXPERIENCE:
-
 ## 🏆 Achievements
 
 <table align="center">
